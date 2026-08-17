@@ -2,7 +2,7 @@
 
 Estudando a base para programar com eficiência.
 
-## 📝 O que estou aprendendo:
+## 📝 Conteúdo:
 
 - [ ] **Pensamento Computacional**
   * Estruturando problemas no Portugol Studio.
